@@ -11,7 +11,7 @@
 - Minor formatting change (thanks @gilluminate!).
 - Fix incorrect years in `CHANGELOG.md`.
 
-# 0.6.1 (February 2, 2016)
+# 0.6.1 (February 3, 2016)
 
 - Simplify the instructions in `CHANGELOG.md`.
 - Rename `LICENSE.md` to `LICENSE`.
